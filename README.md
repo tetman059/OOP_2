@@ -10,4 +10,4 @@ make
 
 ./OOP_2
 
-more info(in Russian): report.docx
+more info(in Russian): ЛР2 Базаргармаев Нима.docx
